@@ -1,4 +1,4 @@
-this is a sample program to create a local repository. 
-changes made for second commit.
+This file is a sample program to create a local repository. 
+Changes made for second commit.
 adding extra content
-adding next line to it.
+Adding next line to it.
